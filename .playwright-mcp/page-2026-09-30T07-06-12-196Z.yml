@@ -1,0 +1,179 @@
+- generic [ref=f1e3]:
+  - generic:
+    - complementary [ref=f1e4]:
+      - navigation "Sidepanel" [ref=f1e5]:
+        - generic [ref=f1e6]:
+          - link [ref=f1e7] [cursor=pointer]:
+            - /url: https://www.orangehrm.com/
+            - img "client brand banner" [ref=f1e9]
+          - text: 
+        - generic [ref=f1e10]:
+          - generic [ref=f1e11]:
+            - generic [ref=f1e12]:
+              - textbox "Search" [active] [ref=f1e15]: Claim
+              - button "" [ref=f1e16] [cursor=pointer]
+            - separator [ref=f1e18]
+          - list [ref=f1e19]:
+            - listitem [ref=f1e20]:
+              - link "Claim" [ref=f1e361] [cursor=pointer]:
+                - /url: /web/index.php/claim/viewClaimModule
+    - banner [ref=f1e110]:
+      - generic [ref=f1e111]:
+        - generic [ref=f1e112]:
+          - text: 
+          - heading "Dashboard" [level=6] [ref=f1e114]
+        - link [ref=f1e116]:
+          - /url: https://orangehrm.com/open-source/upgrade-to-advanced
+          - button "Upgrade" [ref=f1e117] [cursor=pointer]
+        - list [ref=f1e123]:
+          - listitem [ref=f1e124]:
+            - generic [ref=f1e125] [cursor=pointer]:
+              - img "profile picture" [ref=f1e126]
+              - paragraph [ref=f1e127]: test user
+              - generic [ref=f1e128]: 
+      - navigation "Topbar Menu" [ref=f1e130]:
+        - list [ref=f1e131]:
+          - button "" [ref=f1e133] [cursor=pointer]
+  - generic [ref=f1e135]:
+    - generic [ref=f1e137]:
+      - generic [ref=f1e139]:
+        - generic [ref=f1e141]:
+          - generic [ref=f1e142]: 
+          - paragraph [ref=f1e143]: Time at Work
+        - separator [ref=f1e144]
+        - generic [ref=f1e211]:
+          - generic [ref=f1e212]:
+            - img "profile picture" [ref=f1e214]
+            - generic [ref=f1e215]:
+              - paragraph [ref=f1e216]: Punched Out
+              - paragraph [ref=f1e217]: "Punched Out: Mar 29th at 01:19 PM (GMT 7)"
+          - generic [ref=f1e218]:
+            - generic [ref=f1e219]: 0h 0m Today
+            - button "" [ref=f1e220] [cursor=pointer]
+          - separator [ref=f1e222]
+          - generic [ref=f1e223]:
+            - generic [ref=f1e224]:
+              - paragraph [ref=f1e225]: This Week
+              - paragraph [ref=f1e226]: Sep 28 - Oct 04
+            - generic [ref=f1e227]:
+              - generic [ref=f1e228]: 
+              - paragraph [ref=f1e229]: 0h 0m
+      - generic [ref=f1e148]:
+        - generic [ref=f1e150]:
+          - generic [ref=f1e151]: 
+          - paragraph [ref=f1e152]: My Actions
+        - separator [ref=f1e153]
+        - generic [ref=f1e233]:
+          - button [ref=f1e234] [cursor=pointer]
+          - paragraph [ref=f1e240] [cursor=pointer]: (1) Pending Self Review
+      - generic [ref=f1e159]:
+        - generic [ref=f1e161]:
+          - generic [ref=f1e162]: 
+          - paragraph [ref=f1e163]: Quick Launch
+        - separator [ref=f1e164]
+        - generic [ref=f1e242]:
+          - generic [ref=f1e243]:
+            - button "Assign Leave" [ref=f1e244] [cursor=pointer]
+            - generic "Assign Leave" [ref=f1e247]:
+              - paragraph [ref=f1e248]: Assign Leave
+          - generic [ref=f1e249]:
+            - button "Leave List" [ref=f1e250] [cursor=pointer]
+            - generic "Leave List" [ref=f1e257]:
+              - paragraph [ref=f1e258]: Leave List
+          - generic [ref=f1e259]:
+            - button "Timesheets" [ref=f1e260] [cursor=pointer]
+            - generic "Timesheets" [ref=f1e266]:
+              - paragraph [ref=f1e267]: Timesheets
+          - generic [ref=f1e268]:
+            - button "Apply Leave" [ref=f1e269] [cursor=pointer]
+            - generic "Apply Leave" [ref=f1e272]:
+              - paragraph [ref=f1e273]: Apply Leave
+          - generic [ref=f1e274]:
+            - button "My Leave" [ref=f1e275] [cursor=pointer]
+            - generic "My Leave" [ref=f1e280]:
+              - paragraph [ref=f1e281]: My Leave
+          - generic [ref=f1e282]:
+            - button "My Timesheet" [ref=f1e283] [cursor=pointer]
+            - generic "My Timesheet" [ref=f1e286]:
+              - paragraph [ref=f1e287]: My Timesheet
+      - generic [ref=f1e168]:
+        - generic [ref=f1e170]:
+          - generic [ref=f1e171]: 
+          - paragraph [ref=f1e172]: Buzz Latest Posts
+        - separator [ref=f1e173]
+        - generic [ref=f1e289]:
+          - generic [ref=f1e290]:
+            - generic [ref=f1e291] [cursor=pointer]:
+              - img "profile picture" [ref=f1e293]
+              - generic [ref=f1e294]:
+                - paragraph [ref=f1e295]: test test1 user
+                - paragraph [ref=f1e296]: 2026-09-30 07:50 AM
+            - separator [ref=f1e297]
+            - paragraph [ref=f1e298]: Automated test buzz post content
+          - generic [ref=f1e299]:
+            - generic [ref=f1e300] [cursor=pointer]:
+              - img "profile picture" [ref=f1e302]
+              - generic [ref=f1e303]:
+                - paragraph [ref=f1e304]: test test1 user
+                - paragraph [ref=f1e305]: 2026-09-30 07:45 AM
+            - separator [ref=f1e306]
+            - paragraph [ref=f1e307]: Like test post
+          - generic [ref=f1e308]:
+            - generic [ref=f1e309] [cursor=pointer]:
+              - img "profile picture" [ref=f1e311]
+              - generic [ref=f1e312]:
+                - paragraph [ref=f1e313]: test test1 user
+                - paragraph [ref=f1e314]: 2026-09-30 07:45 AM
+            - separator [ref=f1e315]
+            - paragraph [ref=f1e316]: HI
+          - generic [ref=f1e317]:
+            - generic [ref=f1e318] [cursor=pointer]:
+              - img "profile picture" [ref=f1e320]
+              - generic [ref=f1e321]:
+                - paragraph [ref=f1e322]: test test1 user
+                - paragraph [ref=f1e323]: 2026-09-30 07:42 AM
+            - separator [ref=f1e324]
+            - paragraph [ref=f1e325]: Like test post
+          - generic [ref=f1e326]:
+            - generic [ref=f1e327] [cursor=pointer]:
+              - img "profile picture" [ref=f1e329]
+              - generic [ref=f1e330]:
+                - paragraph [ref=f1e331]: test test1 user
+                - paragraph [ref=f1e332]: 2026-09-30 07:35 AM
+            - separator [ref=f1e333]
+            - paragraph [ref=f1e334]: Comment test post
+      - generic [ref=f1e177]:
+        - generic [ref=f1e178]:
+          - paragraph [ref=f1e183]: Employees on Leave Today
+          - generic [ref=f1e184] [cursor=pointer]: 
+        - separator [ref=f1e185]
+        - generic [ref=f1e336]:
+          - img "No Content" [ref=f1e337]
+          - paragraph [ref=f1e338]: No Employees are on Leave Today
+      - generic [ref=f1e189]:
+        - generic [ref=f1e191]:
+          - generic [ref=f1e192]: 
+          - paragraph [ref=f1e193]: Employee Distribution by Sub Unit
+        - separator [ref=f1e194]
+        - list [ref=f1e343]:
+          - listitem [ref=f1e344] [cursor=pointer]:
+            - generic "Human Resources" [ref=f1e346]
+          - listitem [ref=f1e347] [cursor=pointer]:
+            - generic "Client Services" [ref=f1e349]
+          - listitem [ref=f1e350] [cursor=pointer]:
+            - generic "Unassigned" [ref=f1e352]
+      - generic [ref=f1e198]:
+        - generic [ref=f1e200]:
+          - generic [ref=f1e201]: 
+          - paragraph [ref=f1e202]: Employee Distribution by Location
+        - separator [ref=f1e203]
+        - list [ref=f1e357]:
+          - listitem [ref=f1e358] [cursor=pointer]:
+            - generic "Unassigned" [ref=f1e360]
+    - generic [ref=f1e206]:
+      - paragraph [ref=f1e207]: OrangeHRM OS 5.9
+      - paragraph [ref=f1e208]:
+        - text: © 2005 - 2026
+        - link "OrangeHRM, Inc" [ref=f1e209] [cursor=pointer]:
+          - /url: http://www.orangehrm.com
+        - text: . All rights reserved.
