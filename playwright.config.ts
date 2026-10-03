@@ -1,4 +1,10 @@
 import { defineConfig, devices } from '@playwright/test';
+import * as dotenv from 'dotenv';
+dotenv.config();
+
+const username = process.env.OHRM_USERNAME || "defaultUser";
+const password = process.env.OHRM_PASSWORD || "defaultPass";
+
 
 /**
  * Read environment variables from file.
