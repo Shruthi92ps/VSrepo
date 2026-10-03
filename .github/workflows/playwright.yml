@@ -12,8 +12,8 @@ jobs:
 
     # Define environment variables (non-sensitive)
     env:
-      PLAYWRIGHT_PASSWORD: ${{ secrets.OHRM_PASSWORD }}
-      PLAYWRIGHT_USERNAME: ${{ secrets.OHRM_USERNAME }}
+      OHRM_PASSWORD: ${{ secrets.OHRM_PASSWORD }}
+      OHRM_USERNAME: ${{ secrets.OHRM_USERNAME }}
 
     steps:
       - name: Checkout repository
